@@ -3,7 +3,7 @@ This Github is for all construction block editions, Java's Forge edition, and Be
 via the Issues tab so we can get it fixed. If you have a feature request also submit it through the Issues tab.
 
 ## Wiki
-Check out the *work in progress* wiki page located right here on Github. Go to [Wiki](https://github.com/legopitstop/Construction-Blocks-Mods/wiki "Go to wiki")
+Check out the *work in progress* wiki page located right here on Github. Go to [Wiki](https://github.com/legopitstop/Construction-Block-Mods/wiki "Go to wiki")
 
 ## Recipes
 Page coming soon!
