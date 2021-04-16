@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "const:light_blue_crafting_table"
+    },
+    "tags": [ "crafting_table" ],
+    "group": "crafting_table",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "const:light_blue_planks"
+      }
+    },
+    "result": {
+      "item": "const:light_blue_crafting_table"
+    }
+  }
+}

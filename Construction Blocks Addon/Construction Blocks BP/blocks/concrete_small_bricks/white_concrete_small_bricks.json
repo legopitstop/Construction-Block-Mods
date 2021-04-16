@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "const:white_concrete_small_bricks",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "tag:stone": {},
+      "minecraft:loot": "loot_tables/const/blocks/white_concrete_small_bricks.json",
+      "minecraft:destroy_time": 1.8,
+      "minecraft:explosion_resistance": 1.8,
+      "minecraft:map_color": "#fafafa"
+     }
+  }
+}

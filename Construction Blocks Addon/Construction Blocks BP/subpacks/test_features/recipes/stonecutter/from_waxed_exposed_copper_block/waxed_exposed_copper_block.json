@@ -1,0 +1,17 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "const:stonecutter_waxed_exposed_copper_beam_from_waxed_exposed_copper_block"
+        },
+        "tags": [
+            "stonecutter"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:waxed_exposed_copper_block"
+            }
+        ],
+        "result": "const:waxed_exposed_copper_beam_block"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "const:diamond_beam"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "III",
+            " I ",
+            "III"
+        ],
+        "key": {
+            "I": {
+                "item": "minecraft:diamond"
+            }
+        },
+        "result": "const:diamond_beam_block"
+    }
+}

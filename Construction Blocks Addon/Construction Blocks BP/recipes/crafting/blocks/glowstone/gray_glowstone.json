@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "const:glowstone_gray"
+    },
+    "tags": [ "crafting_table" ],
+    "group": "glowstone",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "const:gray_glowstone_dust"
+      }
+    },
+    "result": {
+      "item": "const:glowstone_gray"
+    }
+  }
+}

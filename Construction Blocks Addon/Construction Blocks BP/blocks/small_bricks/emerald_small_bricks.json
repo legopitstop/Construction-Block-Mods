@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "const:small_bricks_emerald",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+			"tag:metal": {},
+      "minecraft:loot": "loot_tables/const/blocks/emerald_small_bricks.json",
+			"minecraft:destroy_time": 0.2,
+			"minecraft:explosion_resistance": 1,
+			"minecraft:map_color": "#000000"
+			}
+	  }
+}

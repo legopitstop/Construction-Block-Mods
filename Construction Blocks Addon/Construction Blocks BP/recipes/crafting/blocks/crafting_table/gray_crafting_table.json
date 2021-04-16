@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "const:gray_crafting_table"
+    },
+    "tags": [ "crafting_table" ],
+    "group": "crafting_table",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "const:gray_planks"
+      }
+    },
+    "result": {
+      "item": "const:gray_crafting_table"
+    }
+  }
+}

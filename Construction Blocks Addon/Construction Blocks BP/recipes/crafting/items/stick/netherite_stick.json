@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "const:craft/item/stick_netherite"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      "#S#",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "const:nugget_netherite"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      { "item": "const:stick_netherite" }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "const:pink_bricks"
+    },
+    "tags": [ "crafting_table" ],
+    "group": "bricks",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "const:pink_brick"
+      }
+    },
+    "result": {
+      "item": "const:pink_bricks"
+    }
+  }
+}

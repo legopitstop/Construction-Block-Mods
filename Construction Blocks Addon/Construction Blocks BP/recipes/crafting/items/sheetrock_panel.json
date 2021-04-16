@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "const:craft/item/sheetrock_panel"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#A#",
+      "#A#",
+      "#A#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:paper"
+      },
+      "A": {
+        "item": "const:gypsum_dust"
+      }
+    },
+    "result": [
+      { "item": "const:sheetrock_panel","count": 6 }
+    ]
+  }
+}

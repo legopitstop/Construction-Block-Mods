@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "const:bricktrim_aged_green",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "tag:stone": {},
+      "minecraft:loot": "loot_tables/const/blocks/green_aged_bricktrim.json",
+      "minecraft:destroy_time": 0.2,
+      "minecraft:explosion_resistance": 0,
+       "minecraft:map_color": "#526a1c"
+      }
+   }
+}

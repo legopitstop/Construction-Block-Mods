@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+  "description": {
+    "identifier": "const:craft/item/paper_blue"
+    },
+   "tags": [ "crafting_table" ],
+   "ingredients": [
+    {
+      "item": "minecraft:dye",
+      "data": 18
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": 
+        {
+            "item": "const:paper_blue"
+        }
+    }
+  }

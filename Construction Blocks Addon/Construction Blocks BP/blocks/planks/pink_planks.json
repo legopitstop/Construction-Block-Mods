@@ -1,0 +1,21 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "const:pink_planks",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "tag:wood": {},
+      "minecraft:loot": "loot_tables/const/blocks/pink_planks.json",
+      "minecraft:flammable": {
+        "flame_odds": 1,
+        "burn_odds": 1
+      },
+      "minecraft:destroy_time": 0.2,
+      "minecraft:explosion_resistance": 0,
+      "minecraft:map_color": "#ed80a2"
+     }
+  }
+}

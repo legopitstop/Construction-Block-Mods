@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "const:craft/block/caution_block_powder1"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#A#",
+      "A#A",
+      "#A#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:concrete_powder",
+        "data": 15
+      },
+      "A": {
+        "item": "minecraft:concrete_powder",
+        "data": 4
+      }
+    },
+    "result": [
+      { "item": "const:caution_block_powder" }
+    ]
+  }
+}

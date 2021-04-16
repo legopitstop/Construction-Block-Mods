@@ -1,0 +1,16 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "const:celingtile_gray",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "tag:stone": {},
+      "minecraft:destroy_time": 0.2,
+      "minecraft:explosion_resistance": 0,
+       "minecraft:map_color": "#373b3f"
+      }
+   }
+}

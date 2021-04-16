@@ -1,0 +1,37 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Construction Blocks RP",
+        "description": "Get Your Built On!                                             §8Pack by:§6 Lego§epit§rstop",
+        "uuid": "14b9a43a-8846-42e5-9eb5-d547510a60c7",
+        "version": [1, 7, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "Get Your Built On!                                             §8Pack by:§6 Lego§epit§rstop",
+            "type": "resources",
+            "uuid": "13c88350-9128-471f-8217-73cb87060874",
+            "version": [1, 7, 0]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Legopitstop"
+        ],
+        "license": "https://legopitstop.weebly.com/legopitstops-common-license.html",
+        "url": "https://legopitstop.weebly.com/"
+    },
+    "subpacks": [
+        {
+            "folder_name": "test_features",
+            "name": "Test Features: §2ON§r",
+            "memory_tier": 2
+        },
+        {
+            "folder_name": "pack",
+            "name": "Test Features: §4OFF§r",
+            "memory_tier": 1
+        }
+    ]
+}
