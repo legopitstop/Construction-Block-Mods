@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "const:block/warped_pillar_top",
+    "side": "const:block/warped_pillar_side"
+  }
+}

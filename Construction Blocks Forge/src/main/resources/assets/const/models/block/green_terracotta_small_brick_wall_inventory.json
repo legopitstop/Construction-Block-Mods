@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "const:block/green_terracotta_small_bricks"
+  }
+}

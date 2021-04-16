@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/purple_simple_wool"
+    }
+  }
+}

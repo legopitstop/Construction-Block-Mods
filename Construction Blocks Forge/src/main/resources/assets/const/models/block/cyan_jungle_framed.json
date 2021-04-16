@@ -1,0 +1,7 @@
+{   
+    "parent": "const:template/template_framed",
+    "textures": {
+        "texture": "const:block/cyan_paper_block",
+        "overlay": "const:block/frame_overlay/jungle_frame"
+    }
+}

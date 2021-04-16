@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "const:lime_planks"
+    }
+  ],
+  "result": {
+    "item": "const:lime_plank_button"
+  }
+}

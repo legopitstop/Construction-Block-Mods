@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "const:lime_planks"
+    }
+  },
+  "result": {
+    "item": "const:lime_plank_stairs",
+    "count": 4
+  }
+}

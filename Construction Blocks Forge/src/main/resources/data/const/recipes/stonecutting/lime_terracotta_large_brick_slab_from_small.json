@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:lime_terracotta_small_brick_slab"
+	},
+	"result": "const:lime_terracotta_large_brick_slab",
+	"count": 1
+}

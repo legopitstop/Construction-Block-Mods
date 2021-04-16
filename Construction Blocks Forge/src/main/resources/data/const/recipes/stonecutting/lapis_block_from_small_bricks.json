@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:lapis_small_bricks"
+	},
+	"result": "minecraft:lapis_block",
+	"count": 1
+}

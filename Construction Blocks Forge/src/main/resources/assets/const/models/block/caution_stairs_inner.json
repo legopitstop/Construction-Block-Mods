@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "const:block/caution_block",
+    "top": "const:block/caution_block",
+    "side": "const:block/caution_block"
+  }
+}

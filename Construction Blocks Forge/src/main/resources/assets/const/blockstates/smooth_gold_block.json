@@ -1,0 +1,8 @@
+
+{
+  "variants": {
+    "": {
+      "model": "const:block/smooth_gold_block"
+    }
+  }
+}

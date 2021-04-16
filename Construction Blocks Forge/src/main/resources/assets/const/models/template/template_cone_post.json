@@ -1,0 +1,175 @@
+{
+	"__credit": "Model By Legopitstop",
+	
+	"parent": "const:template/block_display",
+	"textures": {
+		"particle": "#layer1"
+	},
+	"elements": [
+		{
+			"name": "Handle",
+			"from": [7, 20.5, 7.8],
+			"to": [7.5, 21, 8.3],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"},
+				"east":  {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"},
+				"west":  {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Handle",
+			"from": [8.5, 20.5, 7.8],
+			"to": [9, 21, 8.3],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"},
+				"east":  {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"},
+				"west":  {"uv": [0, 0, 0, 0], "texture": "#layer1", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Handle",
+			"from": [7, 21, 7.8],
+			"to": [9, 21.3, 8.3],
+			"faces": {
+				"north": {"uv": [0, 0.5, 2, 0.5], "texture": "#layer1", "cullface": "up"},
+				"east":  {"uv": [0, 0.5, 0, 0.5], "texture": "#layer1", "cullface": "up"},
+				"south": {"uv": [2, 0.5, 4, 0.5], "texture": "#layer1", "cullface": "up"},
+				"west":  {"uv": [2, 0.5, 2, 0.5], "texture": "#layer1", "cullface": "up"},
+				"up":    {"uv": [2, 0.5, 0, 0.5], "texture": "#layer1", "cullface": "up"},
+				"down":  {"uv": [4, 0.5, 2, 0.5], "texture": "#layer1", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Layer1",
+			"from": [6.7, 18.5, 6.7],
+			"to": [9.3, 20.5, 9.3],
+			"faces": {
+				"north": {"uv": [2, 4.6, 4, 6.6], "texture": "#layer1", "cullface": "up"},
+				"east":  {"uv": [0, 4.6, 2, 6.6], "texture": "#layer1", "cullface": "up"},
+				"south": {"uv": [6, 4.6, 8, 6.6], "texture": "#layer1", "cullface": "up"},
+				"west":  {"uv": [4, 4.6, 6, 6.6], "texture": "#layer1", "cullface": "up"},
+				"up":    {"uv": [4, 4.6, 2, 2.6], "texture": "#layer1", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Layer2",
+			"from": [6.6, 15.5, 6.6],
+			"to": [9.4, 18.5, 9.4],
+			"faces": {
+				"north": {"uv": [0, 13, 2, 16], "texture": "#layer2"},
+				"east":  {"uv": [0, 13, 2, 16], "texture": "#layer2"},
+				"south": {"uv": [0, 13, 2, 16], "texture": "#layer2"},
+				"west":  {"uv": [0, 13, 2, 16], "texture": "#layer2"},
+				"up":    {"uv": [0, 4.6, 2, 2.6], "texture": "#layer2", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Layer3",
+			"from": [6.5, 11.5, 6.5],
+			"to": [9.5, 15.5, 9.5],
+			"faces": {
+				"north": {"uv": [3, 3, 6, 7], "texture": "#layer1"},
+				"east":  {"uv": [0, 3, 3, 7], "texture": "#layer1"},
+				"south": {"uv": [9, 3, 12, 7], "texture": "#layer1"},
+				"west":  {"uv": [6, 3, 9, 7], "texture": "#layer1"},
+				"up":    {"uv": [0, 4.6, 2, 2.6], "texture": "#layer1"}
+			}
+		},
+		{
+			"name": "Layer4",
+			"from": [6.35, 6.5, 6.35],
+			"to": [9.65, 11.5, 9.65],
+			"faces": {
+				"north": {"uv": [0, 11, 3, 16], "texture": "#layer2"},
+				"east":  {"uv": [0, 11, 3, 16], "texture": "#layer2"},
+				"south": {"uv": [0, 11, 3, 16], "texture": "#layer2"},
+				"west":  {"uv": [0, 11, 3, 16], "texture": "#layer2"},
+				"up":    {"uv": [0, 4.6, 2, 2.6], "texture": "#layer2"}
+			}
+		},
+		{
+			"name": "Layer5",
+			"from": [6, 1.5, 6],
+			"to": [10, 6.5, 10],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 9], "texture": "#layer1"},
+				"east":  {"uv": [0, 4, 4, 9], "texture": "#layer1"},
+				"south": {"uv": [12, 4, 16, 9], "texture": "#layer1"},
+				"west":  {"uv": [8, 4, 12, 9], "texture": "#layer1"},
+				"up":    {"uv": [0, 4.6, 2, 2.6], "texture": "#layer1"}
+			}
+		},
+		{
+			"name": "Base Angled East",
+			"from": [11, 0, 11],
+			"to": [13, 1.5, 13.8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [13, 0, 11]},
+			"faces": {
+				"east":  {"uv": [0, 15, 2, 16], "texture": "#base"},
+				"up":    {"uv": [0, 14, 2, 16], "texture": "#base"},
+				"down":  {"uv": [0, 14, 2, 16], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Base Angled North",
+			"from": [11, 0, 3],
+			"to": [13.8, 1.5, 5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [11, 0, 3]},
+			"faces": {
+				"north": {"uv": [0, 15, 2, 16], "texture": "#base"},
+				"up":    {"uv": [0, 14, 2, 16], "texture": "#base"},
+				"down":  {"uv": [0, 14, 2, 16], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Base Angled West",
+			"from": [3, 0, 11],
+			"to": [5, 1.5, 13.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [3, 0, 11]},
+			"faces": {
+				"west":  {"uv": [0, 15, 2, 16], "texture": "#base"},
+				"up":    {"uv": [0, 14, 2, 16], "texture": "#base"},
+				"down":  {"uv": [0, 14, 2, 16], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Base Angled West",
+			"from": [3, 0, 2.2],
+			"to": [5, 1.5, 5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [3, 0, 5]},
+			"faces": {
+				"west":  {"uv": [0, 15, 2, 16], "texture": "#base"},
+				"up":    {"uv": [0, 14, 2, 16], "texture": "#base"},
+				"down":  {"uv": [0, 14, 2, 16], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Base",
+			"from": [3, 0, 5],
+			"to": [13, 1.5, 11],
+			"faces": {
+				"north": {"uv": [0, 15, 10, 16], "texture": "#base"},
+				"east":  {"uv": [0, 15, 6, 16], "texture": "#base"},
+				"south": {"uv": [0, 15, 10, 16], "texture": "#base"},
+				"west":  {"uv": [0, 15, 6, 16], "texture": "#base"},
+				"up":    {"uv": [0, 10, 10, 16], "texture": "#base"},
+				"down":  {"uv": [0, 10, 10, 16], "texture": "#base", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Base",
+			"from": [5, 0, 3],
+			"to": [11, 1.5, 13],
+			"faces": {
+				"north": {"uv": [0, 15, 6, 16], "texture": "#base"},
+				"east":  {"uv": [0, 15, 10, 16], "texture": "#base"},
+				"south": {"uv": [0, 15, 6, 16], "texture": "#base"},
+				"west":  {"uv": [0, 15, 10, 16], "texture": "#base"},
+				"up":    {"uv": [0, 6, 6, 16], "texture": "#base"},
+				"down":  {"uv": [0, 6, 6, 16], "texture": "#base", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "const:block/yellow_terracotta_small_bricks"
+  }
+}

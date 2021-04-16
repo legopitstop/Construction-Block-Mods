@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:blue_terracotta"
+	},
+	"result": "const:blue_terracotta_small_brick_stairs",
+	"count": 1
+}

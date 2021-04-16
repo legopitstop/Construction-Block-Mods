@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "const:block/cyan_terracotta_large_bricks",
+    "top": "const:block/cyan_terracotta_large_bricks",
+    "side": "const:block/cyan_terracotta_large_bricks"
+  }
+}

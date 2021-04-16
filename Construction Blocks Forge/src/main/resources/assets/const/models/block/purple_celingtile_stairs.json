@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "const:block/purple_celingtile",
+    "top": "const:block/purple_celingtile",
+    "side": "const:block/purple_celingtile"
+  }
+}

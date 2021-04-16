@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:cyan_concrete_small_bricks"
+	},
+	"result": "const:cyan_concrete_large_bricks",
+	"count": 1
+}

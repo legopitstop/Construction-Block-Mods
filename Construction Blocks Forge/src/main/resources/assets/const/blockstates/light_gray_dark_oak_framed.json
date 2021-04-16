@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/light_gray_dark_oak_framed"
+    }
+  }
+}

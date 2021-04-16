@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/pink_dye_block"
+    }
+  }
+}

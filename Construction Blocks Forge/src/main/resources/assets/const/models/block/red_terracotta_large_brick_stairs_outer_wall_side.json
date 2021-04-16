@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "const:block/red_terracotta_large_bricks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "const:bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "const:yellow_brick"
+    }
+  },
+  "result": {
+    "item": "const:yellow_bricks",
+    "count": 1
+  }
+}

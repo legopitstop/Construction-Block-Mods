@@ -1,0 +1,39 @@
+{
+	"elements": [
+		{
+			"name": "Top",
+			"from": [2, 13, 0],
+			"to": [14, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 21, 8]},
+			"faces": {
+				"east":  {"uv": [8, 0, 16, 3], "texture": "#beam"},
+				"south": {"uv": [2, 0, 14, 3], "texture": "#beam"},
+				"west":  {"uv": [0, 0, 8, 3], "texture": "#beam"},
+				"up":    {"uv": [2, 0, 14, 8], "texture": "#beam", "cullface": "up"},
+				"down":  {"uv": [2, 0, 14, 8], "texture": "#beam"}
+			}
+		},
+		{
+			"name": "Middle",
+			"from": [4, 3, 0],
+			"to": [12, 13, 8],
+			"faces": {
+				"east":  {"uv": [8, 3, 16, 13], "texture": "#beam"},
+				"west":  {"uv": [0, 2, 8, 12], "texture": "#beam"}
+			}
+		},
+		{
+			"name": "Bottom",
+			"from": [2, 0, 0],
+			"to": [14, 3, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 8, 8]},
+			"faces": {
+				"east":  {"uv": [8, 13, 16, 16], "texture": "#beam"},
+				"south": {"uv": [2, 13, 14, 16], "texture": "#beam"},
+				"west":  {"uv": [0, 13, 8, 16], "texture": "#beam"},
+				"up":    {"uv": [2, 0, 14, 8], "texture": "#beam"},
+				"down":  {"uv": [2, 0, 14, 16], "texture": "#beam", "cullface": "down"}
+			}
+		}
+	]
+}

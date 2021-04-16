@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:emerald_large_bricks"
+	},
+	"result": "minecraft:emerald_block",
+	"count": 1
+}

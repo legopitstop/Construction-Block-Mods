@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#WA",
+    "AAA"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "A": {
+      "item": "const:gypsum_dust"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "const:celingtile"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "const:block/cyan_terracotta_large_bricks"
+  }
+}

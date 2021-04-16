@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "const:aged_bricks"
+    }
+  },
+  "result": {
+    "item": "const:white_aged_bricktrim",
+    "count": 9
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "const:block/template_beam_side",
+  "textures": {
+    "beam": "const:block/rusty_iron_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "const:template/template_nailed",
+  "textures": {
+    "nail": "minecraft:block/iron_block"
+  }
+}

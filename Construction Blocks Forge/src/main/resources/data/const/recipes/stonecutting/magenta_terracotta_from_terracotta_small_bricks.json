@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:magenta_terracotta_small_bricks"
+	},
+	"result": "minecraft:magenta_terracotta",
+	"count": 1
+}

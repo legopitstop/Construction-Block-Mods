@@ -1,0 +1,6 @@
+{
+  "parent": "const:block/template_beam",
+  "textures": {
+    "beam": "minecraft:block/diamond_block"
+  }
+}

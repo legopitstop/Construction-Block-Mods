@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "const:paper_block",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "const:green_dyed_paper"
+    }
+  },
+  "result": {
+    "item": "const:green_paper_block"
+  }
+}

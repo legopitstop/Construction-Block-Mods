@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "const:block/blue_terracotta_small_bricks"
+  }
+}

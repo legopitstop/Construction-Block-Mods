@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sand",
+      "count": 1
+    },
+    {
+      "item": "minecraft:black_dye",
+      "count": 1
+    },
+    {
+      "item": "minecraft:paper",
+      "count": 7
+    }
+  ],
+  "result": {
+    "item": "const:wet_sandpaper",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "const:template/template_scaffolding_unstable",
+    "textures": {
+        "top": "const:block/dark_oak_scaffolding_top",
+        "side": "const:block/dark_oak_scaffolding_side",
+        "bottom": "const:block/dark_oak_scaffolding_bottom"
+    }
+}

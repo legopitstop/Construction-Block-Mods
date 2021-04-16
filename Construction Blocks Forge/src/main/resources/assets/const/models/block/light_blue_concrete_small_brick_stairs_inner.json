@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "const:block/light_blue_concrete_small_bricks",
+    "top": "const:block/light_blue_concrete_small_bricks",
+    "side": "const:block/light_blue_concrete_small_bricks"
+  }
+}

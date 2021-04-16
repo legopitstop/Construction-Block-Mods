@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "const:block/purple_concrete_large_bricks"
+  }
+}

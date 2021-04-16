@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:blue_concrete_small_brick_slab"
+	},
+	"result": "const:blue_concrete_large_brick_slab",
+	"count": 1
+}

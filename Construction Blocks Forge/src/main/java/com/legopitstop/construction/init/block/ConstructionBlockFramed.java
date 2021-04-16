@@ -1,0 +1,154 @@
+package com.legopitstop.construction.init.block;
+
+import com.legopitstop.construction.ConstructionMod;
+import com.legopitstop.construction.blocks.*;
+import com.legopitstop.construction.blocks.custom.*;
+import com.legopitstop.construction.blocks.scaffolding.CrimsonScaffoldingBlock;
+import com.legopitstop.construction.blocks.scaffolding.WarpedScaffoldingBlock;
+import com.legopitstop.construction.blocks.scaffolding.WoodScaffolding;
+import net.minecraft.block.Block;
+import net.minecraftforge.fml.RegistryObject;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+
+public class ConstructionBlockFramed {
+    // Register blocks
+    public static DeferredRegister<Block> BLOCK_FRAMED = DeferredRegister.create(ForgeRegistries.BLOCKS, ConstructionMod.MOD_ID);
+    // ACACIA_FRAMED
+    public static final RegistryObject<Block> BLACK_ACACIA_FRAMED = BLOCK_FRAMED.register("black_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_ACACIA_FRAMED = BLOCK_FRAMED.register("blue_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_ACACIA_FRAMED = BLOCK_FRAMED.register("brown_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_ACACIA_FRAMED = BLOCK_FRAMED.register("cyan_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_ACACIA_FRAMED = BLOCK_FRAMED.register("gray_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_ACACIA_FRAMED = BLOCK_FRAMED.register("green_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_ACACIA_FRAMED = BLOCK_FRAMED.register("light_blue_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_ACACIA_FRAMED = BLOCK_FRAMED.register("light_gray_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_ACACIA_FRAMED = BLOCK_FRAMED.register("lime_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_ACACIA_FRAMED = BLOCK_FRAMED.register("magenta_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_ACACIA_FRAMED = BLOCK_FRAMED.register("orange_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_ACACIA_FRAMED = BLOCK_FRAMED.register("pink_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_ACACIA_FRAMED = BLOCK_FRAMED.register("purple_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_ACACIA_FRAMED = BLOCK_FRAMED.register("red_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_ACACIA_FRAMED = BLOCK_FRAMED.register("white_acacia_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_ACACIA_FRAMED = BLOCK_FRAMED.register("yellow_acacia_framed", PaperBlock::new);
+    // BIRCH_FRAMED
+    public static final RegistryObject<Block> BLACK_BIRCH_FRAMED = BLOCK_FRAMED.register("black_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_BIRCH_FRAMED = BLOCK_FRAMED.register("blue_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_BIRCH_FRAMED = BLOCK_FRAMED.register("brown_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_BIRCH_FRAMED = BLOCK_FRAMED.register("cyan_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_BIRCH_FRAMED = BLOCK_FRAMED.register("gray_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_BIRCH_FRAMED = BLOCK_FRAMED.register("green_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_BIRCH_FRAMED = BLOCK_FRAMED.register("light_blue_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_BIRCH_FRAMED = BLOCK_FRAMED.register("light_gray_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_BIRCH_FRAMED = BLOCK_FRAMED.register("lime_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_BIRCH_FRAMED = BLOCK_FRAMED.register("magenta_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_BIRCH_FRAMED = BLOCK_FRAMED.register("orange_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_BIRCH_FRAMED = BLOCK_FRAMED.register("pink_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_BIRCH_FRAMED = BLOCK_FRAMED.register("purple_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_BIRCH_FRAMED = BLOCK_FRAMED.register("red_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_BIRCH_FRAMED = BLOCK_FRAMED.register("white_birch_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_BIRCH_FRAMED = BLOCK_FRAMED.register("yellow_birch_framed", PaperBlock::new);
+    // CRIMSON_FRAMED
+    public static final RegistryObject<Block> BLACK_CRIMSON_FRAMED = BLOCK_FRAMED.register("black_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_CRIMSON_FRAMED = BLOCK_FRAMED.register("blue_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_CRIMSON_FRAMED = BLOCK_FRAMED.register("brown_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_CRIMSON_FRAMED = BLOCK_FRAMED.register("cyan_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_CRIMSON_FRAMED = BLOCK_FRAMED.register("gray_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_CRIMSON_FRAMED = BLOCK_FRAMED.register("green_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_CRIMSON_FRAMED = BLOCK_FRAMED.register("light_blue_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_CRIMSON_FRAMED = BLOCK_FRAMED.register("light_gray_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_CRIMSON_FRAMED = BLOCK_FRAMED.register("lime_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_CRIMSON_FRAMED = BLOCK_FRAMED.register("magenta_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_CRIMSON_FRAMED = BLOCK_FRAMED.register("orange_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_CRIMSON_FRAMED = BLOCK_FRAMED.register("pink_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_CRIMSON_FRAMED = BLOCK_FRAMED.register("purple_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_CRIMSON_FRAMED = BLOCK_FRAMED.register("red_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_CRIMSON_FRAMED = BLOCK_FRAMED.register("white_crimson_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_CRIMSON_FRAMED = BLOCK_FRAMED.register("yellow_crimson_framed", PaperBlock::new);
+    // DARK_OAK_FRAMED
+    public static final RegistryObject<Block> BLACK_DARK_OAK_FRAMED = BLOCK_FRAMED.register("black_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_DARK_OAK_FRAMED = BLOCK_FRAMED.register("blue_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_DARK_OAK_FRAMED = BLOCK_FRAMED.register("brown_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_DARK_OAK_FRAMED = BLOCK_FRAMED.register("cyan_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_DARK_OAK_FRAMED = BLOCK_FRAMED.register("gray_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_DARK_OAK_FRAMED = BLOCK_FRAMED.register("green_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_DARK_OAK_FRAMED = BLOCK_FRAMED.register("light_blue_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_DARK_OAK_FRAMED = BLOCK_FRAMED.register("light_gray_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_DARK_OAK_FRAMED = BLOCK_FRAMED.register("lime_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_DARK_OAK_FRAMED = BLOCK_FRAMED.register("magenta_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_DARK_OAK_FRAMED = BLOCK_FRAMED.register("orange_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_DARK_OAK_FRAMED = BLOCK_FRAMED.register("pink_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_DARK_OAK_FRAMED = BLOCK_FRAMED.register("purple_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_DARK_OAK_FRAMED = BLOCK_FRAMED.register("red_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_DARK_OAK_FRAMED = BLOCK_FRAMED.register("white_dark_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_DARK_OAK_FRAMED = BLOCK_FRAMED.register("yellow_dark_oak_framed", PaperBlock::new);
+    // JUNGLE_FRAMED
+    public static final RegistryObject<Block> BLACK_JUNGLE_FRAMED = BLOCK_FRAMED.register("black_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_JUNGLE_FRAMED = BLOCK_FRAMED.register("blue_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_JUNGLE_FRAMED = BLOCK_FRAMED.register("brown_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_JUNGLE_FRAMED = BLOCK_FRAMED.register("cyan_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_JUNGLE_FRAMED = BLOCK_FRAMED.register("gray_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_JUNGLE_FRAMED = BLOCK_FRAMED.register("green_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_JUNGLE_FRAMED = BLOCK_FRAMED.register("light_blue_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_JUNGLE_FRAMED = BLOCK_FRAMED.register("light_gray_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_JUNGLE_FRAMED = BLOCK_FRAMED.register("lime_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_JUNGLE_FRAMED = BLOCK_FRAMED.register("magenta_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_JUNGLE_FRAMED = BLOCK_FRAMED.register("orange_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_JUNGLE_FRAMED = BLOCK_FRAMED.register("pink_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_JUNGLE_FRAMED = BLOCK_FRAMED.register("purple_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_JUNGLE_FRAMED = BLOCK_FRAMED.register("red_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_JUNGLE_FRAMED = BLOCK_FRAMED.register("white_jungle_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_JUNGLE_FRAMED = BLOCK_FRAMED.register("yellow_jungle_framed", PaperBlock::new);
+    // OAK_FRAMED
+    public static final RegistryObject<Block> BLACK_OAK_FRAMED = BLOCK_FRAMED.register("black_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_OAK_FRAMED = BLOCK_FRAMED.register("blue_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_OAK_FRAMED = BLOCK_FRAMED.register("brown_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_OAK_FRAMED = BLOCK_FRAMED.register("cyan_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_OAK_FRAMED = BLOCK_FRAMED.register("gray_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_OAK_FRAMED = BLOCK_FRAMED.register("green_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_OAK_FRAMED = BLOCK_FRAMED.register("light_blue_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_OAK_FRAMED = BLOCK_FRAMED.register("light_gray_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_OAK_FRAMED = BLOCK_FRAMED.register("lime_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_OAK_FRAMED = BLOCK_FRAMED.register("magenta_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_OAK_FRAMED = BLOCK_FRAMED.register("orange_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_OAK_FRAMED = BLOCK_FRAMED.register("pink_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_OAK_FRAMED = BLOCK_FRAMED.register("purple_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_OAK_FRAMED = BLOCK_FRAMED.register("red_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_OAK_FRAMED = BLOCK_FRAMED.register("white_oak_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_OAK_FRAMED = BLOCK_FRAMED.register("yellow_oak_framed", PaperBlock::new);
+    // SPRUCE_FRAMED
+    public static final RegistryObject<Block> BLACK_SPRUCE_FRAMED = BLOCK_FRAMED.register("black_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_SPRUCE_FRAMED = BLOCK_FRAMED.register("blue_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_SPRUCE_FRAMED = BLOCK_FRAMED.register("brown_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_SPRUCE_FRAMED = BLOCK_FRAMED.register("cyan_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_SPRUCE_FRAMED = BLOCK_FRAMED.register("gray_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_SPRUCE_FRAMED = BLOCK_FRAMED.register("green_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_SPRUCE_FRAMED = BLOCK_FRAMED.register("light_blue_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_SPRUCE_FRAMED = BLOCK_FRAMED.register("light_gray_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_SPRUCE_FRAMED = BLOCK_FRAMED.register("lime_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_SPRUCE_FRAMED = BLOCK_FRAMED.register("magenta_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_SPRUCE_FRAMED = BLOCK_FRAMED.register("orange_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_SPRUCE_FRAMED = BLOCK_FRAMED.register("pink_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_SPRUCE_FRAMED = BLOCK_FRAMED.register("purple_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_SPRUCE_FRAMED = BLOCK_FRAMED.register("red_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_SPRUCE_FRAMED = BLOCK_FRAMED.register("white_spruce_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_SPRUCE_FRAMED = BLOCK_FRAMED.register("yellow_spruce_framed", PaperBlock::new);
+    // WARPED_FRAMED
+    public static final RegistryObject<Block> BLACK_WARPED_FRAMED = BLOCK_FRAMED.register("black_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BLUE_WARPED_FRAMED = BLOCK_FRAMED.register("blue_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> BROWN_WARPED_FRAMED = BLOCK_FRAMED.register("brown_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> CYAN_WARPED_FRAMED = BLOCK_FRAMED.register("cyan_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GRAY_WARPED_FRAMED = BLOCK_FRAMED.register("gray_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> GREEN_WARPED_FRAMED = BLOCK_FRAMED.register("green_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_BLUE_WARPED_FRAMED = BLOCK_FRAMED.register("light_blue_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIGHT_GRAY_WARPED_FRAMED = BLOCK_FRAMED.register("light_gray_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> LIME_WARPED_FRAMED = BLOCK_FRAMED.register("lime_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> MAGENTA_WARPED_FRAMED = BLOCK_FRAMED.register("magenta_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> ORANGE_WARPED_FRAMED = BLOCK_FRAMED.register("orange_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PINK_WARPED_FRAMED = BLOCK_FRAMED.register("pink_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> PURPLE_WARPED_FRAMED = BLOCK_FRAMED.register("purple_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> RED_WARPED_FRAMED = BLOCK_FRAMED.register("red_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> WHITE_WARPED_FRAMED = BLOCK_FRAMED.register("white_warped_framed", PaperBlock::new);
+    public static final RegistryObject<Block> YELLOW_WARPED_FRAMED = BLOCK_FRAMED.register("yellow_warped_framed", PaperBlock::new);
+
+}

@@ -1,0 +1,9 @@
+{
+  "variants" : {
+
+    "facing=north": {"model": "const:block/cone_barrel"},
+    "facing=south": {"model": "const:block/cone_barrel","y": 180},
+    "facing=west": {"model": "const:block/cone_barrel","y": 270},
+    "facing=east": {"model": "const:block/cone_barrel","y": 90}
+  }
+}

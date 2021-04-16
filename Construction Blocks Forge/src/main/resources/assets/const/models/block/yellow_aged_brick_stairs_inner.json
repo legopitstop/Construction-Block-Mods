@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "const:block/yellow_aged_bricks",
+    "top": "const:block/yellow_aged_bricks",
+    "side": "const:block/yellow_aged_bricks"
+  }
+}

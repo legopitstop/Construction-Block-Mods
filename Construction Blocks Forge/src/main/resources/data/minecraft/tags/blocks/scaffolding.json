@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "const:acacia_scaffolding",
+    "const:birch_scaffolding",
+    "const:crimson_scaffolding",
+    "const:dark_oak_scaffolding",
+    "const:jungle_scaffolding",
+    "const:oak_scaffolding",
+    "const:spruce_scaffolding",
+    "const:warped_scaffolding"
+  ]
+}

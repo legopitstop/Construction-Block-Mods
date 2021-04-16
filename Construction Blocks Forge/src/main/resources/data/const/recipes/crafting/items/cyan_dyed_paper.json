@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "const:dyed_paper",
+  "ingredients": [
+    {
+      "item": "minecraft:paper",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cyan_dye",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "const:cyan_dyed_paper",
+    "count": 1
+  }
+}

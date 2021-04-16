@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/sea_lantern_off"
+    }
+  }
+}

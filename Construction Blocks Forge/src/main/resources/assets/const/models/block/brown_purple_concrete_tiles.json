@@ -1,0 +1,7 @@
+{
+  "parent": "const:template/template_tiles",
+  "textures": {
+    "main": "minecraft:block/brown_concrete",
+    "secondary": "minecraft:block/purple_concrete"
+  }
+}

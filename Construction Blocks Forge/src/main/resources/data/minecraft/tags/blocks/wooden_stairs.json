@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "const:black_plank_stairs",
+    "const:blue_plank_stairs",
+    "const:brown_plank_stairs",
+    "const:cyan_plank_stairs",
+    "const:gray_plank_stairs",
+    "const:green_plank_stairs",
+    "const:light_blue_plank_stairs",
+    "const:light_gray_plank_stairs",
+    "const:lime_plank_stairs",
+    "const:magenta_plank_stairs",
+    "const:orange_plank_stairs",
+    "const:pink_plank_stairs",
+    "const:purple_plank_stairs",
+    "const:red_plank_stairs",
+    "const:white_plank_stairs",
+    "const:yellow_plank_stairs"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "const:block/black_bricktrim_top",
+    "side": "const:block/black_aged_bricktrim_side",
+    "bottom": "const:block/aged_bricks"
+  }
+}

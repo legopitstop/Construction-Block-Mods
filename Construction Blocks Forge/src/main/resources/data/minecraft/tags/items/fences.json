@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "const:anvil_beam",
+    "const:diamond_beam",
+    "const:emerald_beam",
+    "const:gold_beam",
+    "const:iron_beam",
+    "const:netherite_beam",
+    "const:rusty_iron_beam"
+  ]
+}

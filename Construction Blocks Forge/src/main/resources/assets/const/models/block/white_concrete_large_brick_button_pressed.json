@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "const:block/white_concrete_large_bricks"
+  }
+}

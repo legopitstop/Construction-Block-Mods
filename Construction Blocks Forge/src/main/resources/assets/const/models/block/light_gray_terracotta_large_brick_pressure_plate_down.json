@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_down",
+  "textures": {
+    "texture": "const:block/light_gray_terracotta_large_bricks"
+  }
+}

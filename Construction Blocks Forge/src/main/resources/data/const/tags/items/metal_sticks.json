@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "const:diamond_stick",
+    "const:golden_stick",
+    "const:iron_stick",
+    "const:netherite_stick"
+  ]
+}

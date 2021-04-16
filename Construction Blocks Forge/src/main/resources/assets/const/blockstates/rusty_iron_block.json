@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/rusty_iron_block"
+    }
+  }
+}

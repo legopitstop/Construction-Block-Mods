@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/anvil_large_bricks"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/iron_small_bricks"
+    }
+  }
+}

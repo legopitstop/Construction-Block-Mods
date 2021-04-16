@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "const:block/orange_concrete_large_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:pink_terracotta"
+	},
+	"result": "const:pink_terracotta_large_bricks",
+	"count": 1
+}

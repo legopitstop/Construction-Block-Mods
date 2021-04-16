@@ -1,0 +1,76 @@
+{
+	"textures": {
+		"particle": "#cover"
+	},
+	"elements": [
+		{
+			"name": "cover",
+			"from": [5, 0, 4],
+			"to": [11, 1, 12],
+			"faces": {
+				"north": {"uv": [5, 14, 11, 16], "texture": "#cover"},
+				"east":  {"uv": [6, 14, 10, 16], "texture": "#cover"},
+				"south": {"uv": [5, 14, 11, 16], "texture": "#cover"},
+				"west":  {"uv": [6, 14, 10, 16], "texture": "#cover"},
+				"up":    {"uv": [5, 14, 11, 6], "texture": "#cover"}
+			}
+		},
+		{
+			"name": "switch_cover",
+			"from": [7, 1, 5.75],
+			"to": [9, 1.01, 10.25],
+			"faces": {
+				"up": {"uv": [5, 10.5, 7, 6], "texture": "#switch_cover"}
+			}
+		},
+		{
+			"name": "wire_box",
+			"from": [5, -3, 4],
+			"to": [11, 0, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 3], "texture": "#wire_box"},
+				"east":  {"uv": [0, 0, 8, 3], "texture": "#wire_box"},
+				"south": {"uv": [0, 0, 6, 3], "texture": "#wire_box"},
+				"west":  {"uv": [0, 0, 8, 3], "texture": "#wire_box"},
+				"down":  {"uv": [0, 0, 6, 8], "texture": "#wire_box"}
+			}
+		},
+		{
+			"name": "switch",
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 3, 8.5],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 0.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 3], "texture": "#cover"},
+				"east":  {"uv": [0, 0, 1, 3], "texture": "#cover"},
+				"south": {"uv": [0, 0, 1, 3], "texture": "#cover"},
+				"west":  {"uv": [0, 0, 1, 3], "texture": "#cover"},
+				"up":    {"uv": [0, 0, 1, 1], "texture": "#cover"}
+			}
+		},
+		{
+			"name": "screw",
+			"from": [7.75, 1, 4.75],
+			"to": [8.25, 1.1, 5.25],
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"east":  {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"south": {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"west":  {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"up":    {"uv": [0, 0, 0.5, 0.5], "texture": "#cover"}
+			}
+		},
+		{
+			"name": "screw",
+			"from": [7.75, 1, 10.75],
+			"to": [8.25, 1.1, 11.25],
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"east":  {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"south": {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"west":  {"uv": [0, 0, 0.5, 0.1], "texture": "#cover"},
+				"up":    {"uv": [0, 0, 0.5, 0.5], "texture": "#cover"}
+			}
+		}
+	]
+}

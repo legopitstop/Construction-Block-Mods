@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "const:black_plank_fence_gate",
+    "const:blue_plank_fence_gate",
+    "const:brown_plank_fence_gate",
+    "const:cyan_plank_fence_gate",
+    "const:gray_plank_fence_gate",
+    "const:green_plank_fence_gate",
+    "const:light_blue_plank_fence_gate",
+    "const:light_gray_plank_fence_gate",
+    "const:lime_plank_fence_gate",
+    "const:magenta_plank_fence_gate",
+    "const:orange_plank_fence_gate",
+    "const:pink_plank_fence_gate",
+    "const:purple_plank_fence_gate",
+    "const:red_plank_fence_gate",
+    "const:white_plank_fence_gate",
+    "const:yellow_plank_fence_gate"
+  ]
+}

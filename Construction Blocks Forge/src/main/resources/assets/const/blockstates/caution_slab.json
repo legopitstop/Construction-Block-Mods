@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "const:block/caution_slab"
+    },
+    "type=double": {
+      "model": "const:block/caution_block"
+    },
+    "type=top": {
+      "model": "const:block/caution_slab_top"
+    }
+  }
+}

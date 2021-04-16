@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "const:hammer",
+  "pattern": [
+    "###",
+    "#S ",
+    " S "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "const:golden_stick"
+    }
+  },
+  "result": {
+    "item": "const:golden_hammer",
+    "count": 1
+  }
+}

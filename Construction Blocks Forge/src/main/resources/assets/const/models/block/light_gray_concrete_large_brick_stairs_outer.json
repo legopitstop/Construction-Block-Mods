@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "const:block/light_gray_concrete_large_bricks",
+    "top": "const:block/light_gray_concrete_large_bricks",
+    "side": "const:block/light_gray_concrete_large_bricks"
+  }
+}

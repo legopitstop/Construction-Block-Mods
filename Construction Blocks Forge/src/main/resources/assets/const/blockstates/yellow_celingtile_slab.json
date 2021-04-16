@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "const:block/yellow_celingtile_slab"
+    },
+    "type=double": {
+      "model": "const:block/yellow_celingtile"
+    },
+    "type=top": {
+      "model": "const:block/yellow_celingtile_slab_top"
+    }
+  }
+}

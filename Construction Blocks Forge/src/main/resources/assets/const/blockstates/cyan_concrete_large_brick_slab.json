@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "const:block/cyan_concrete_large_brick_slab"
+    },
+    "type=double": {
+      "model": "const:block/cyan_concrete_large_bricks"
+    },
+    "type=top": {
+      "model": "const:block/cyan_concrete_large_brick_slab_top"
+    }
+  }
+}

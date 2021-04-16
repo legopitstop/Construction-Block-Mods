@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "const:block/green_plank_slab"
+    },
+    "type=double": {
+      "model": "const:block/green_planks"
+    },
+    "type=top": {
+      "model": "const:block/green_plank_slab_top"
+    }
+  }
+}

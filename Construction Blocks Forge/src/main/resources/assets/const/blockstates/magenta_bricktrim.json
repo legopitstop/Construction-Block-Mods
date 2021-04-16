@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/magenta_bricktrim"
+    }
+  }
+}

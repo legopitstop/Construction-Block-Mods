@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stick"
+  },
+  "addition": {
+    "item": "const:emerald_nugget"
+  },
+  "result": {
+    "item": "const:emerald_stick"
+  }
+}

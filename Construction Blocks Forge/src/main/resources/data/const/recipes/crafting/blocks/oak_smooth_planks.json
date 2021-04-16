@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "const:smooth_planks",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_planks",
+      "count": 1
+    },
+    {
+      "item": "const:sandpaper",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "const:oak_smooth_planks",
+    "count": 1
+  }
+}

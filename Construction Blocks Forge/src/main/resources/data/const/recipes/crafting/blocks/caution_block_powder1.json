@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "const:caution_block_powder",
+  "pattern": [
+    "BYB",
+    "YBY",
+    "BYB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:black_concrete_powder"
+    },
+    "Y": {
+      "item": "minecraft:yellow_concrete_powder"
+    }
+  },
+  "result": {
+    "item": "const:caution_block_powder",
+    "count": 9
+  }
+}

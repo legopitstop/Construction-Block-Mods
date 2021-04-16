@@ -1,0 +1,17 @@
+
+{
+  "variants": {
+    "axis=x": {
+      "model": "const:block/stripped_dark_oak_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "const:block/stripped_dark_oak_pillar"
+    },
+    "axis=z": {
+      "model": "const:block/stripped_dark_oak_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

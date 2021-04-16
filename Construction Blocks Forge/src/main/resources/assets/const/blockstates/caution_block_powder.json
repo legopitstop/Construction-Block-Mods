@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/caution_block_powder"
+    }
+  }
+}

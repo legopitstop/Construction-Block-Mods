@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/blue_cyan_concrete_tiles"
+    }
+  }
+}

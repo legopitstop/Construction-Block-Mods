@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "bottom=false": {
+      "model": "const:block/birch_scaffolding_stable"
+    },
+    "bottom=true": {
+      "model": "const:block/birch_scaffolding_unstable"
+    }
+  }
+}

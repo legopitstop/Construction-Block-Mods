@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:anvil_block"
+	},
+	"result": "const:anvil_beam",
+	"count": 1
+}

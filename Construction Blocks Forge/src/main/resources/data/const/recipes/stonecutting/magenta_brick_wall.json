@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:magenta_bricks"
+	},
+	"result": "const:magenta_brick_wall",
+	"count": 1
+}

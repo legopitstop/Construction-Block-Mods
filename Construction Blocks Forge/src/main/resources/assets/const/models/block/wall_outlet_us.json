@@ -1,0 +1,9 @@
+{
+  "parent": "const:template/template_wall_outlet",
+  "textures": {
+    "cover": "minecraft:block/white_concrete",
+    "wire_box": "minecraft:block/blue_concrete",
+    "outlet_cover": "minecraft:block/light_gray_concrete",
+    "outlet_type": "const:block/us_outlet"
+  }
+}

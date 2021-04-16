@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "const:black_plank_button",
+    "const:blue_plank_button",
+    "const:brown_plank_button",
+    "const:cyan_plank_button",
+    "const:gray_plank_button",
+    "const:green_plank_button",
+    "const:light_blue_plank_button",
+    "const:light_gray_plank_button",
+    "const:lime_plank_button",
+    "const:magenta_plank_button",
+    "const:orange_plank_button",
+    "const:pink_plank_button",
+    "const:purple_plank_button",
+    "const:red_plank_button",
+    "const:white_plank_button",
+    "const:yellow_plank_button"
+  ]
+}

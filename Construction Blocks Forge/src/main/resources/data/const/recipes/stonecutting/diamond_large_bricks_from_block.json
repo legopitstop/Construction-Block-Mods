@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:diamond_block"
+	},
+	"result": "const:diamond_large_bricks",
+	"count": 1
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/pink_warped_framed"
+    }
+  }
+}

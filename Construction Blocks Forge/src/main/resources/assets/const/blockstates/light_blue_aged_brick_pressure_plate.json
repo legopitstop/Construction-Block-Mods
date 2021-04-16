@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "const:block/light_blue_aged_brick_pressure_plate"
+    },
+    "powered=true": {
+      "model": "const:block/light_blue_aged_brick_pressure_plate_down"
+    }
+  }
+}

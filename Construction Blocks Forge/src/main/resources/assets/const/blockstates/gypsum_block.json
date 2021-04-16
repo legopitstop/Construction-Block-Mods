@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/gypsum_block"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:stick"
+  },
+  "addition": {
+    "item": "const:netherite_nugget"
+  },
+  "result": {
+    "item": "const:netherite_stick"
+  }
+}

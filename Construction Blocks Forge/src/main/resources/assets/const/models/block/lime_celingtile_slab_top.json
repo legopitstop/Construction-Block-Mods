@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "const:block/lime_celingtile",
+    "top": "const:block/lime_celingtile",
+    "side": "const:block/lime_celingtile"
+  }
+}

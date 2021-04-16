@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:yellow_concrete"
+	},
+	"result": "const:yellow_concrete_small_brick_wall",
+	"count": 1
+}

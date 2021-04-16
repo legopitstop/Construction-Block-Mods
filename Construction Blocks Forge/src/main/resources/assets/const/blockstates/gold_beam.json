@@ -1,0 +1,116 @@
+{
+  "multipart": [
+    {
+      "__comment": "All False",
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": { 
+        "model": "const:block/gold_beam",
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "North End",
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": { 
+        "model": "const:block/gold_beam_end",
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "East End",
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": { 
+        "model": "const:block/gold_beam_end",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "South End",
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "false"
+      },
+      "apply": { 
+        "model": "const:block/gold_beam_end",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "West End",
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true"
+      },
+      "apply": { 
+        "model": "const:block/gold_beam_end",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "North",
+      "when": {
+        "north": "true"
+
+      },
+      "apply": {
+        "model": "const:block/gold_beam_side",
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "East",
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "const:block/gold_beam_side",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "South",
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "const:block/gold_beam_side",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "__comment": "West",
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "const:block/gold_beam_side",
+        "y": 270,
+        "uvlock": true
+      }
+    }
+  ]
+}

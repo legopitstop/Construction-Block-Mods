@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "const:paint_roller",
+  "ingredients": [
+    {
+      "item": "const:paint_roller",
+      "count": 1
+    },
+    {
+      "item": "minecraft:light_gray_dye",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "const:light_gray_paint_roller",
+    "count": 1
+  }
+}

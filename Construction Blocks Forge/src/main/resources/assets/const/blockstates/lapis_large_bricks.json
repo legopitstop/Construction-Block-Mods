@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/lapis_large_bricks"
+    }
+  }
+}

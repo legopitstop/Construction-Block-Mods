@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/smooth_lapis_block"
+    }
+  }
+}

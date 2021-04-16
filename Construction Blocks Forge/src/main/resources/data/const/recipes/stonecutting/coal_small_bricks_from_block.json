@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:coal_block"
+	},
+	"result": "const:coal_small_bricks",
+	"count": 1
+}

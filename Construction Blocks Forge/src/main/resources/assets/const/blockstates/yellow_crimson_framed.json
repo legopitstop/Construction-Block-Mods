@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/yellow_crimson_framed"
+    }
+  }
+}

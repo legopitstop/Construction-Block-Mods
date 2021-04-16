@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:rusty_iron_block"
+	},
+	"result": "const:rusty_iron_large_bricks",
+	"count": 1
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "const:block/light_blue_celingtile_slab"
+    },
+    "type=double": {
+      "model": "const:block/light_blue_celingtile"
+    },
+    "type=top": {
+      "model": "const:block/light_blue_celingtile_slab_top"
+    }
+  }
+}

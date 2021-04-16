@@ -1,0 +1,6 @@
+{
+  "parent": "const:block/template_beam_end",
+  "textures": {
+    "beam": "minecraft:block/netherite_block"
+  }
+}

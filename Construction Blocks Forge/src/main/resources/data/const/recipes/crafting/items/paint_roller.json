@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "const:paint_roller",
+  "pattern": [
+    "###",
+    " SS",
+    " S "
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "const:iron_stick"
+    }
+  },
+  "result": {
+    "item": "const:paint_roller",
+    "count": 1
+  }
+}

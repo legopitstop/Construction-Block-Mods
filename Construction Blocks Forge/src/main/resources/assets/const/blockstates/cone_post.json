@@ -1,0 +1,9 @@
+{
+  "variants" : {
+
+    "facing=north": {"model": "const:block/cone_post"},
+    "facing=south": {"model": "const:block/cone_post","y": 180},
+    "facing=west": {"model": "const:block/cone_post","y": 270},
+    "facing=east": {"model": "const:block/cone_post","y": 90}
+  }
+}

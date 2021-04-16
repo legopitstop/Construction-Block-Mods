@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/emerald_large_bricks"
+    }
+  }
+}

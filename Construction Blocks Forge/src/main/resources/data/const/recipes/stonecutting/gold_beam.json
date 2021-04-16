@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:gold_block"
+	},
+	"result": "const:gold_beam",
+	"count": 1
+}

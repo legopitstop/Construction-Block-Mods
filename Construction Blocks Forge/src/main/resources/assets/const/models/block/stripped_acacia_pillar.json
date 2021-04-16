@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "const:block/stripped_acacia_pillar_top",
+    "side": "const:block/stripped_acacia_pillar_side"
+  }
+}

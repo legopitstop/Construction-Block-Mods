@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "const:block/brown_terracotta_large_brick_slab"
+    },
+    "type=double": {
+      "model": "const:block/brown_terracotta_large_bricks"
+    },
+    "type=top": {
+      "model": "const:block/brown_terracotta_large_brick_slab_top"
+    }
+  }
+}

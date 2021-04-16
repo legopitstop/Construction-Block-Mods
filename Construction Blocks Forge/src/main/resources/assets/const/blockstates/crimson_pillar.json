@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "const:block/crimson_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "const:block/crimson_pillar"
+    },
+    "axis=z": {
+      "model": "const:block/crimson_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/warped_polished_planks"
+    }
+  }
+}

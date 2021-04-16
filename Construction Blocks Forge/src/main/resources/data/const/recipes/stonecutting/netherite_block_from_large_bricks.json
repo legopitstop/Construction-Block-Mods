@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "const:netherite_large_bricks"
+	},
+	"result": "minecraft:netherite_block",
+	"count": 1
+}

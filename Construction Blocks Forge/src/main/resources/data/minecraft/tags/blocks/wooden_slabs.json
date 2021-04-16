@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "const:black_plank_slab",
+    "const:blue_plank_slab",
+    "const:brown_plank_slab",
+    "const:cyan_plank_slab",
+    "const:gray_plank_slab",
+    "const:green_plank_slab",
+    "const:light_blue_plank_slab",
+    "const:light_gray_plank_slab",
+    "const:lime_plank_slab",
+    "const:magenta_plank_slab",
+    "const:orange_plank_slab",
+    "const:pink_plank_slab",
+    "const:purple_plank_slab",
+    "const:red_plank_slab",
+    "const:white_plank_slab",
+    "const:yellow_plank_slab"
+  ]
+}

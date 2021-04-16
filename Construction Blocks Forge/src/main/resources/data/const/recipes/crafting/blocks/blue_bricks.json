@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "const:bricks",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "const:blue_brick"
+    }
+  },
+  "result": {
+    "item": "const:blue_bricks",
+    "count": 1
+  }
+}

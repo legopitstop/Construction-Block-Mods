@@ -1,0 +1,9 @@
+{   
+    "parent": "const:template/template_grass_block",
+    "textures": {
+        "bottom": "minecraft:block/dirt",
+        "side": "minecraft:block/dirt",
+        "top": "const:block/cyan_grass_block_top",
+        "overlay": "const:block/cyan_grass_block_side"
+    }
+}

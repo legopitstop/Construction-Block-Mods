@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "const:black_planks"
+    }
+  },
+  "result": {
+    "item": "const:black_plank_slab",
+    "count": 6
+  }
+}

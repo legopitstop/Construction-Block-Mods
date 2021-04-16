@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/oak_polished_planks"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "const:gypsum_dust"
+    }
+  },
+  "result": {
+    "item": "const:gypsum_block"
+  }
+}

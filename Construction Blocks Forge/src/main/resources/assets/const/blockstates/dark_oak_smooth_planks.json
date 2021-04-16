@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/dark_oak_smooth_planks"
+    }
+  }
+}

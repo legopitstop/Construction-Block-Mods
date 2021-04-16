@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "const:dye_block",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:magenta_dye"
+    }
+  },
+  "result": {
+    "item": "const:magenta_dye_block"
+  }
+}

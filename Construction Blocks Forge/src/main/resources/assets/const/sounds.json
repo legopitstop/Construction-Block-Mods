@@ -1,0 +1,46 @@
+{
+  "block.celingtile.break": {
+    "sounds": [
+      "const:dig/celingtile1",
+      "const:dig/celingtile2",
+      "const:dig/celingtile3",
+      "const:dig/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.celingtile.fall": {
+    "sounds": [
+      "const:step/celingtile1",
+      "const:step/celingtile2",
+      "const:step/celingtile3",
+      "const:step/celingtile4"
+    ]
+  },
+  "block.celingtile.hit": {
+    "sounds": [
+      "const:step/celingtile1",
+      "const:step/celingtile2",
+      "const:step/celingtile3",
+      "const:step/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.celingtile.place": {
+    "sounds": [
+      "const:dig/celingtile1",
+      "const:dig/celingtile2",
+      "const:dig/celingtile3",
+      "const:dig/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.celingtile.step": {
+    "sounds": [
+      "const:step/celingtile1",
+      "const:step/celingtile2",
+      "const:step/celingtile3",
+      "const:step/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  }
+}
